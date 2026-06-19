@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: strappjcatg.azurecr.io/strapp:latest
+          tags: first.azurecr.io/first:latest
